@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/bigsoft/static/css/main.45e4be1c.css",
-    "main.js": "/bigsoft/static/js/main.9404effa.js",
+    "main.css": "/bigsoft/static/css/main.62d3c329.css",
+    "main.js": "/bigsoft/static/js/main.92a086ca.js",
     "static/js/787.686cfcc5.chunk.js": "/bigsoft/static/js/787.686cfcc5.chunk.js",
+    "static/media/pwa.svg": "/bigsoft/static/media/pwa.2008fc33c4cbb19842875f9a7f07da6d.svg",
     "static/media/vector.jpg": "/bigsoft/static/media/vector.b6357e279bdb9fec55f8.jpg",
+    "static/media/lojavirtual.svg": "/bigsoft/static/media/lojavirtual.0b621b53cc11da613b28d7f05e3860f4.svg",
+    "static/media/site.svg": "/bigsoft/static/media/site.071bee09004f66f9717a8dd633b33fd2.svg",
+    "static/media/automacao.jpg": "/bigsoft/static/media/automacao.a748020dd51fe7d0716a.jpg",
+    "static/media/webdev.jpg": "/bigsoft/static/media/webdev.ca55a691bb9f2b540508.jpg",
+    "static/media/cyber-security.jpeg": "/bigsoft/static/media/cyber-security.b9f8e410096975cec935.jpeg",
+    "static/media/bg.jpg": "/bigsoft/static/media/bg.c010adfc7db838f33240.jpg",
     "index.html": "/bigsoft/index.html",
-    "main.45e4be1c.css.map": "/bigsoft/static/css/main.45e4be1c.css.map",
-    "main.9404effa.js.map": "/bigsoft/static/js/main.9404effa.js.map",
+    "main.62d3c329.css.map": "/bigsoft/static/css/main.62d3c329.css.map",
+    "main.92a086ca.js.map": "/bigsoft/static/js/main.92a086ca.js.map",
     "787.686cfcc5.chunk.js.map": "/bigsoft/static/js/787.686cfcc5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.45e4be1c.css",
-    "static/js/main.9404effa.js"
+    "static/css/main.62d3c329.css",
+    "static/js/main.92a086ca.js"
   ]
 }
